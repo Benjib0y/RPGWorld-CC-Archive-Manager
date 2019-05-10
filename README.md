@@ -1,5 +1,6 @@
 # RPGWorld-CC-Archive-Manager
-A small application to manage Character Creator databases in RPGWorld
+A small application to manage Character Creator databases in RPGWorld.
+
 Download the zip file and unpack it to your RPGWorld user folder. If you do not know where that is, post a message in the RPGWorld General discussion forum/RPGWorld Creators Toys thread and I'll explain.
 Once the program and support file are installed, run CCArchiveManager.
 On first run it will create an empty archive database and present a list of the CC's in your CC database.
